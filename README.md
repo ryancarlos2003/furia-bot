@@ -66,7 +66,7 @@ Criar uma linha do tempo visualmente agradável e fluida, combinando texto, imag
 Tornar o site acessível e visualmente bonito tanto em dispositivos móveis quanto em desktops demandou testes e várias adaptações no layout.
 
 ## Licença
-- Este projeto está licenciado sob a Licença MIT - veja o arquivo     [LICENSE](LICENSE) para mais detalhes.
+- Este projeto está licenciado sob a Licença MIT - veja o arquivo     [LICENSE](license) para mais detalhes.
 
 ## Contatos
    Ryan Carlos de Araújo dos Santos 
