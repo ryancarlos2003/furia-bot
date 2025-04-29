@@ -12,7 +12,7 @@
 - [Problemas Enfrentados](#problemas-enfrentados)
 
 ## Sobre o Projeto
-Este projeto é uma landing page desenvolvida para a **FURIA e-Sports**, incluindo seções sobre a história da organização, elenco e notícias atualizadas. A página contém um chat interativo com um bot do Telegram, permitindo que os fãs interajam com as atualizações do time.
+Este projeto é uma landing page desenvolvida para a **FURIA e-Sports**, incluindo seções sobre a história da organização, elenco e notícias atualizadas. A página contém um chat interativo, permitindo que os fãs interajam com as atualizações do time.
 
 ## Como usar?
 - Acesse a página e interaja com os botões de navegação para explorar a história, elenco e as notícias da FURIA.
